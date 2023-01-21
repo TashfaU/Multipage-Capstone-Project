@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+ nav a:hover{
+  background-color: lightblue;
+  color:pink;
+}
+
+nav a:active{
+  background-color:lightgreen ;
+  color:red;
+}
+
+nav a {
+  text-decoration: none;
+  margin:20px;
+}
+
+  body{
+    background-image:url("https://t4.ftcdn.net/jpg/02/36/19/51/360_F_236195116_IWbsVnjfNpwfioW6eHgIXoIqlif9ZXei.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+a[ target="blank"]{
+  background-color: lightcoral;
+  color:darkblue;
+  
+nav a{
+  color:black
+}
+
+img{
+  width:40%;
+  margin:30px;
+}
